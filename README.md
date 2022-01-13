@@ -8,4 +8,4 @@
 * ⚓ Docker.
 * 🐣 Nextcloud, Pihole, wireguard, AdguardHome
 * 💻 Linux, MacOS and Windows
-* 💻 Firewalls ands networks professional
+* 💻 Firewalls and networks professional
