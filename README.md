@@ -15,7 +15,6 @@
 * You can contact with me on <a href="mailto:juanrodenas07@gmail.com?Subject=from%20github">email</a> or with <a href="https://twitter.com/juanrs_05?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-lang="es" data-show-count="false">Follow me on Twitter</a>
 
 ### Credits
-Welcome to my personal space! Buy me a coffee so I can continue creating content.
-¡Bienvenido a mi espacio personal! Invítame a un café para que pueda seguir creando contenidos.
+Buy me a coffee so I can continue creating content. Invítame a un café para que pueda seguir creando contenidos.
 #
 <a href="https://www.buymeacoffee.com/juanrodenas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
