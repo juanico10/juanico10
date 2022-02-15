@@ -14,7 +14,6 @@
 
 * You can contact with me on <a href="mailto:juanrodenas07@gmail.com?Subject=from%20github">email</a> or with Follow me on Twitter
 [![Twitter](https://img.shields.io/badge/-@juanrs_05-e84393?label=&logo=twitter&logoColor=ffffff&color=6399AE&labelColor=00C2CB)](https://twitter.com/juanrs_05)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjuanrs_05)
 
 ### Credits
 Buy me a coffee so I can continue creating content. Invítame a un café para que pueda seguir creando contenidos.
