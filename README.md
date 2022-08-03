@@ -10,7 +10,7 @@
 * 💻 Linux, MacOS and Windows
 * 💻 Firewalls and networks professional
 
-[![Juan Rodenas GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanRodenas)](https://github.com/JuanRodenas/github-readme-stats)
+[![Juan Rodenas GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanRodenas&show_icons=true&count_private=true&locale=es)](https://github.com/JuanRodenas/github-readme-stats)
 
 ### Contact
 
