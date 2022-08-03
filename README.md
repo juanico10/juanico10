@@ -10,6 +10,8 @@
 * 💻 Linux, MacOS and Windows
 * 💻 Firewalls and networks professional
 
+[![Juan Rodenas GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanRodenas)](https://github.com/JuanRodenas/github-readme-stats)
+
 ### Contact
 
 * You can contact with me on <a href="mailto:juanrodenas07@gmail.com?Subject=from%20github">email</a> or with Follow me on Twitter
