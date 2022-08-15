@@ -12,10 +12,8 @@
 
 [![Juan Rodenas GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanRodenas&show_icons=true&count_private=true&locale=es)](https://github.com/JuanRodenas/github-readme-stats)
 
-### Contact
-
-* You can contact with me on <a href="mailto:juanrodenas07@gmail.com?Subject=from%20github">email</a> or with Follow me on Twitter
-[![Twitter](https://img.shields.io/badge/-@juanrs_05-e84393?label=&logo=twitter&logoColor=ffffff&color=6399AE&labelColor=00C2CB)](https://twitter.com/juanrs_05)
+### Contact 
+* You can contact me by email: <a title="email" href="mailto:juanrodenas07@gmail.com?Subject=from%20github"><img src="https://github.com/JuanRodenas/JuanRodenas/blob/main/mail.png" alt="mail" width="40" align="center" /></a>  or follow me on Twitter: <a title="twitter" href="https://twitter.com/juanrs_05"><img src="https://github.com/JuanRodenas/JuanRodenas/blob/main/twitter.png" alt="twitter" width="60" align="center" /></a>
 
 ### Credits
 Buy me a coffee so I can continue creating content. Invítame a un café para que pueda seguir creando contenidos.
