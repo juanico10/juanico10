@@ -4,7 +4,7 @@
 
 
 ### My skills
-* 👨‍🎓 I am certified in linux, cybersecurity and networking.
+* 👨‍🎓 I am certified in linux professional, cybersecurity and networking.
 * ⚓ Docker, kubernetes, ansible, kvm and more.
 * 🤖 Nextcloud, Pihole, wireguard, AdguardHome and more!
 * 🐧 Linux, MacOS and Windows.
