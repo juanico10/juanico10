@@ -2,6 +2,17 @@
 
 *Welcome to my personal space, i'm a person who has always liked to tinker with home projects outside of work, and where programming has always been something that has always called me. Due to lack of time at the end there are a thousand things that are left undone or half done... And there are certain projects that I either start, or I put to work and forget to document for the next times I need it. That's why I decided to create this Github.*
 
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="200">
+	
+<div align="center"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />
+</div>  
+
+<br/> 
 
 ### My skills
 * 👨‍🎓 I am certified in linux professional, cybersecurity and networking.
@@ -9,6 +20,7 @@
 * 🤖 Nextcloud, Pihole, wireguard, AdguardHome and more!
 * 🐧 Linux, MacOS and Windows.
 * 💻 Firewall and networks professional.
+
 
 ## &#x1f4c8; My GitHub Stats
 [![Juan Rodenas GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanRodenas&theme=dark&show_icons=true&locale=es)](https://github.com/JuanRodenas/github-readme-stats)
