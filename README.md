@@ -12,9 +12,6 @@
 * 💻 Firewall and networks professional.
 
 
-## &#x1f4c8; My GitHub Stats
-[![Juan Rodenas GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanRodenas&theme=dark&show_icons=true&locale=es)](https://github.com/JuanRodenas/github-readme-stats)
-
 ### Contact 
 * You can contact me by email: <a title="email" href="mailto:juanrodenas07@gmail.com?Subject=from%20github"><img src="https://github.com/JuanRodenas/JuanRodenas/blob/main/mail.png" alt="mail" width="24"/></a>  or follow me on Twitter: ![Twitter URL](https://img.shields.io/twitter/url?color=gray&label=Twitter&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fjuanrs_05)
 
