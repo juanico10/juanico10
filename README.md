@@ -10,6 +10,7 @@
 * 🤖 Nextcloud, Pihole, wireguard, AdguardHome and more!
 * 🐧 Linux, MacOS and Windows.
 * 💻 Firewall and networks professional.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanRodenas&label=JuanRodenas&color=blue&style=flat-square" alt="JuanRodenas" /> </p>
 
 
 ### Contact 
