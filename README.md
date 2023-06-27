@@ -13,7 +13,10 @@
 
 
 ### Contact 
-* You can contact me by email: <a title="email" href="mailto:juanrodenas07@gmail.com?Subject=from%20github"><img src="https://github.com/JuanRodenas/JuanRodenas/blob/main/mail.png" alt="mail" width="24"/></a>  or follow me on Twitter: ![Twitter URL](https://img.shields.io/twitter/url?color=gray&label=Twitter&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fjuanrs_05)
+* You can contact me by email or follow me on Twitter:
+
+  <a title="email" href="mailto:juanrodenas07@gmail.com?Subject=from%20github" target="_blank"><img src="https://github.com/JuanRodenas/JuanRodenas/blob/main/mail.png" alt="mail" width="24"/></a>
+[![Twitter](https://img.shields.io/badge/-@juanrs_05-e84393?label=&logo=twitter&logoColor=ffffff&color=6399AE&labelColor=00C2CB)](https://twitter.com/juanrs_05)
 
 ### Credits
 Buy me a coffee so I can continue creating content. Invítame a un café para que pueda seguir creando contenidos.
