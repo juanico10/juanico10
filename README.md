@@ -14,11 +14,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRodenas&layout=compact)](https://github.com/JuanRodenas)
 
 ### Contact 
-* You can contact me by email or follow me on Twitter:
+* You can contact me by email or follow me on social network:
 
   [![GitHub](https://img.shields.io/badge/-github-171515?style=flat&labelColor=171515&logo=github&logoColor=white)](https://github.com/JuanRodenas/)
 [![Mail](https://img.shields.io/badge/-mail-c4302b?style=flat&labelColor=c4302b&logo=gmail&logoColor=white)](mailto:juanrodenas07@gmail.com?Subject=from%20github)
 [![Twitter](https://img.shields.io/badge/-@juanrs-0088cc?style=flat&labelColor=0088cc&logo=twitter&logoColor=white)](https://twitter.com/juanrs_05)
+[![Mastodon](https://img.shields.io/badge/-@juanico10-524096?style=flat&labelColor=524096&logo=mastodon&logoColor=white)](https://mastodon.social/@juanico10)
 
 ### Credits
 Buy me a coffee so I can continue creating content. Invítame a un café para que pueda seguir creando contenidos.
