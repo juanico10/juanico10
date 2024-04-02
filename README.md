@@ -11,7 +11,7 @@
 * 🐧 Linux, MacOS and Windows.
 * 💻 Firewall and networks professional.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanico10&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanico10&hide_progress=true)
 
 
 ### Contact 
